@@ -1,5 +1,5 @@
 """
-The wntr.network.controls module includes methods to define network controls
+The  wntr.network.controls module includes methods to define network controls
 and control actions.  These controls modify parameters in the network during
 simulation.
 
